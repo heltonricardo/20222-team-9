@@ -80,4 +80,4 @@ https://www.youtube.com/watch?v=DEuiURx3tYY)
 (Muito importante!!)
 
 ### MATERIAL DE APOIO
-[EXEMPLO (BEM FRAQUINHO) DE  CRUD C++](https://github.com/heltonricardo/crud-cpp)
+[EXEMPLO (EXCELENTE) DE  CRUD C++](https://github.com/heltonricardo/crud-cpp)
